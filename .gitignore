@@ -1,0 +1,52 @@
+# -------------------------
+# Sistem / OS
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Visual Studio / C++
+# -------------------------
+.vs/
+bin/
+Debug/
+Release/
+x64/
+x86/
+build/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.log
+
+# Visual Studio specific
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# -------------------------
+# Python
+# -------------------------
+# Bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# -------------------------
+# Misc / temporare
+# -------------------------
+*.swp
+*.bak
+*.tmp
+*.log
